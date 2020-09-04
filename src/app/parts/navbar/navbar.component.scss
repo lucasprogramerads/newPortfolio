@@ -1,0 +1,18 @@
+nav {
+    ul {
+        margin-left: 6rem;
+        @media (max-width: 991px) {
+            margin-left: 0;
+        }
+    }
+
+    div {
+        div {
+            a {
+                img {
+                    height: 30px;
+                }
+            }
+        }
+    }
+}
